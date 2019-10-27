@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">horticulturaMza</string>
+    <string name="disenio">Diseño de interfaces. Capital</string>
+    <string name="ImageDescription">Logo</string>
+    <string name="saludo">Saludo</string>
+    <string name="hello">Hello World!!</string>
+    <string name="title_activity_mapa">Map</string>
+    <string name="Mapa">Mapa</string>
+    <string name="Post">Post</string>
+</resources>
